@@ -155,7 +155,6 @@ class _OnBoardingScreenState extends State<OnBoardingScreen>
                   return Container(
                       color: page.decoration.pageColor,
                       decoration: page.decoration.boxDecoration,
-                      padding: page.decoration.contentPadding,
                       child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           crossAxisAlignment: CrossAxisAlignment.center,
